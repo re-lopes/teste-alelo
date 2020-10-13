@@ -13,7 +13,7 @@
 
   <properties>
     <version.selenium>3.141.59</version.selenium>
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.hamcrest>2.2</version.hamcrest>
     <version.commons-io>2.6</version.commons-io>
     <version.rest-assured>4.1.2</version.rest-assured>
